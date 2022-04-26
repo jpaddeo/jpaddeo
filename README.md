@@ -6,6 +6,6 @@
 
 - 👨🏻‍💻 System's Engineer. Fullstack Developer. Code Lover.
 - 📕 Portfolio & Resume [jpaddeo.work](https://jpaddeo.work)
-- 🏡💻 Currently CTO at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
+- 🏡💻 Currently I+D Lead at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
 - ⚪️🔘 Hincha de Racing
-- 🟣 Trying to be _Livecoder Streamer_ on [Twitch](https://twitch.tv/jpaddeo)
+# - 🟣 Trying to be _Livecoder Streamer_ on [Twitch](https://twitch.tv/jpaddeo)
