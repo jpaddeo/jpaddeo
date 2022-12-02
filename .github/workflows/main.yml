@@ -1,0 +1,35 @@
+name: generate gh contributions svg sanke animation
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate svgs
+        uses: Platene/snk/svg-only@v2
+        with:
+          github_user_bame: ${{ github.repository_name }}
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - name: push svgs to the output branch
+        uses: actions/checkout@v3
+      - run: |
+          git config user.name jpaddeo
+          git config user.email jpaddeo@gmail.com
+          git add .
+          git commit -m "feat: generating news SVGs with contributions"
+          git push
+
