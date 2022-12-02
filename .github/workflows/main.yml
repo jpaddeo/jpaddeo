@@ -11,13 +11,13 @@ on:
       - main
 
 jobs:
-  generate:
+  generate-svgs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
       - name: generate svgs
-        uses: Platene/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_bame: ${{ github.repository_name }}
           outputs: |
