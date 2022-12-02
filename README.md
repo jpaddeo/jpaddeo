@@ -1,5 +1,10 @@
 ## Hi, I'm Juan Pablo 👋🏽
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 - 👨🏻‍💻 System's Engineer. Fullstack Developer. Code Lover.
 - 📕 Portfolio & Resume [jpaddeo.work](https://jpaddeo.work)
 - 🏡💻 Currently I+D Lead at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
