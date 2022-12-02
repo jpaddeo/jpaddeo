@@ -19,7 +19,7 @@ jobs:
       - name: generate svgs
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_bame: ${{ github.repository_name }}
+          github_user_name: ${{ github.repository_name }}
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
