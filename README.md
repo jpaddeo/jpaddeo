@@ -27,11 +27,11 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"           height="45"  width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"                 height="45"  width="52" alt="php logo"  />
 
-<br/>
+  <br/><br/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jpaddeo?style=social)](https://twitter.com/jpaddeo)
-![GitHub followers](https://img.shields.io/github/followers/jpaddeo?style=social)
-![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)  
+   [![Twitter Follow](https://img.shields.io/twitter/follow/jpaddeo?style=social)](https://twitter.com/jpaddeo)
+   ![GitHub followers](https://img.shields.io/github/followers/jpaddeo?style=social)
+   ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)  
 </div>
 
 ###
