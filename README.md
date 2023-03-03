@@ -21,7 +21,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"             height="40"  width="52" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"              height="40"  width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"           height="40"  width="52" alt="nextjs logo" style="background-color: #dddddd;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"           height="40"  width="52" alt="nextjs logo" style="background-color: rgb(255, 255, 255)" />
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg"                 height="40"  width="52" alt="nestjs logo"  style="background-color: #dddddd;" />
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg"                 height="40"  width="52" alt="laravel logo"  style="background-color: #dddddd;" />
     <br/>
