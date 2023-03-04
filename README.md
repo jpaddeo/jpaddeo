@@ -40,8 +40,9 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <br/>
 
    [![Twitter Follow](https://img.shields.io/twitter/follow/jpaddeo?style=social)](https://twitter.com/jpaddeo)
+   ![Mastodon](https://img.shields.io/mastodon/follow/109432519008242302?domain=https%3A%2F%2Fmastodon.peladonerd.com&label=mastodon&style=social)
    ![GitHub followers](https://img.shields.io/github/followers/jpaddeo?style=social)
-   ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)  
+   ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)
 </div>
 
 ###
