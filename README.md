@@ -45,4 +45,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
    ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)
 </div>
 
+![Juan Pablo Addeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaddeo&show_icons=true&hide_border=true)
+
 ###
