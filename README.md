@@ -45,6 +45,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
    ![Twitch](https://img.shields.io/twitch/status/jpaddeo?style=social)
 </div>
 
-![Juan Pablo Addeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaddeo&show_icons=true&hide_border=true)
+<h3 align="center">G I T H U B  - S T A T S</h3>
+<div align="center">
+  
+  ![Juan Pablo Addeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpaddeo&show_icons=true&count_private=true&hide_border=true)
+  ![Juan Pablo Addeo's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=jpaddeo&show_icons=true&locale=en&layout=compact)
+  ![Juan Pablo Addeo's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jpaddeo)
+</div>
 
 ###
