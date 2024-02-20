@@ -53,4 +53,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   ![Juan Pablo Addeo's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jpaddeo)
 </div>
 
+<div align="center">
+  <a href="https://app.daily.dev/jpaddeo"><img src="https://api.daily.dev/devcards/v2/2zbUWoRQr.png?r=saj&type=default" width="356" alt="Juan Pablo Addeo's Dev Card"/></a>
+</div>
+
 ###
