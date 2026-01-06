@@ -7,7 +7,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 - 👨🏻‍💻 System's Engineer. Fullstack Developer. Code Lover.
 - 📕 Portfolio & Resume [jpaddeo.work](https://jpaddeo.work)
-- 🏡💻 Currently I+D Lead at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
+- 🏡💻 Currently Head of Software Research and Development at [Ministerio Público Fiscal de la CABA](https://mpfciudad.gob.ar)
 - ⚪️🔵 Hincha de [Racing Club](https://www.racingclub.com.ar) 
 <!-- - 🟣 Trying to be _Livecoder Streamer_ on [Twitch](https://twitch.tv/jpaddeo) -->
 
