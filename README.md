@@ -21,9 +21,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"   height="40"  width="52" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"    height="40"  width="52" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40"  width="52" alt="nextjs logo" style="background-color: #dddddd;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height="40"  width="52" alt="nestjs logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"  width="52" alt="laravel logo" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original-wordmark.svg" height="40"  width="52" alt="nextjs logo" style="background-color: #dddddd;" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg" height="40"  width="52" alt="laravel logo" />
     <br/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45"  width="52" alt="mysql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"      height="40"  width="52" alt="postgresql logo" />
